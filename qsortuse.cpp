@@ -1,5 +1,5 @@
-#include<stdio.h>
-#include<stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
 
 int MyCompre(const void* elem1, const void* elem2){
 	unsigned int *p1,*p2;

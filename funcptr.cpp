@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 
 void PrintMin(int a,int b){
 	if (a<b)
